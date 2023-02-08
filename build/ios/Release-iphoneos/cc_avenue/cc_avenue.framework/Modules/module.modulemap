@@ -1,0 +1,6 @@
+framework module cc_avenue {
+  umbrella header "cc_avenue-umbrella.h"
+
+  export *
+  module * { export * }
+}
